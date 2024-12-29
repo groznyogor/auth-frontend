@@ -1,4 +1,30 @@
-# AUTH - FRONTEND
-Darmowy frontend pod logowanie
+# auth-frontend
 
-Zrobię register za jakiś czas <3
+Frontend for auth system.
+
+## Features
+
+- 🎨 Modern, dark-themed UI design
+- 📱 Fully responsive layout
+- 🎭 User registration and login flows
+- 💅 Styled with Tailwind CSS
+- ⚡ Fast and lightweight
+
+## Tech Stack
+
+- HTML5
+- Tailwind CSS
+- Font Awesome Icons
+- Inter Font Family
+- Gradient Backgrounds
+- Modern Form Design
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/groznyogor/auth-frontend.git
+cd auth-frontend
+```
+
+Made with 💚 by ogor

@@ -15,9 +15,6 @@ Frontend for auth system.
 - HTML5
 - Tailwind CSS
 - Font Awesome Icons
-- Inter Font Family
-- Gradient Backgrounds
-- Modern Form Design
 
 ## Getting Started
 
